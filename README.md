@@ -17,7 +17,7 @@ Then you should check these files for assistance:
 
 https://training.github.com/downloads/de/github-git-cheat-sheet/
 
-or look at the cheatsheet in this repository.
+or look at the [cheatsheet](https://gitlab.lrz.de/gitvorkurs/git-game/-/blob/master/cheatsheet.md) in this repository.
 
 Otherwise, you are free to continue...
 
