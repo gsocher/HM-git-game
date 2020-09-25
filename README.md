@@ -1,6 +1,6 @@
 # Welcome to the git-game!! 
 
-This is a terminal game designed to test your knowledge of git commands.
+This is a command line game designed to test your knowledge of git commands.
 Each level in the game is a task to perform on this repo.
 Once you perform that task, you will be given your next task.
   There are a total of ten levels, each one harder than last!
@@ -9,23 +9,19 @@ Once you perform that task, you will be given your next task.
 Clone this repository by running:
 
 ```
-$ git clone https://github.com/hgarc014/git-game.git
+$ git clone https://gitlab.lrz.de/gitvorkurs/git-game
 ```
 **Don't know a lot about git??**
 
 Then you should check these files for assistance:
 
-https://github.com/mikeizbicki/ucr-cs100/blob/2015winter/textbook/cheatsheets/git-cheatsheet.md
+https://training.github.com/downloads/de/github-git-cheat-sheet/
 
-https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/textbook/tools/git/advanced-git
+or look at the cheatsheet in this repository.
 
 Otherwise, you are free to continue...
 
-**You can win a badge for completing this game!**
-
-learn more about badges here: https://openbadgefactory.com/faq
-
-**You should always check the README.md file for your next clue!**
+**Always check the README.md file for your next clue!**
 
 ``Level 1``
 
