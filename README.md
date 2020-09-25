@@ -9,7 +9,7 @@ Once you perform that task, you will be given your next task.
 Clone this repository by running:
 
 ```
-$ git clone https://gitlab.lrz.de/gitvorkurs/git-game
+$ git clone https://gitlab.lrz.de/gitvorkurs/git-game.git
 ```
 **Don't know a lot about git??**
 
