@@ -1,5 +1,7 @@
 # Welcome to the git-game!! 
 
+This repository is a modified fork from https://github.com/git-game/git-game. 
+
 This is a command line game designed to test your knowledge of git commands.
 Each level in the game is a task to perform on this repo.
 Once you perform that task, you will be given your next task.
@@ -9,7 +11,7 @@ Once you perform that task, you will be given your next task.
 Clone this repository by running:
 
 ```
-$ git clone https://gitlab.lrz.de/gitvorkurs/git-game.git
+$ git clone https://github.com/gsocher/HM-git-game.git
 ```
 **Don't know a lot about git??**
 
